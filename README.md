@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/SamirVarma01/SamirVarma01/main/assets/header.gif)](https://github.com/SamirVarma01)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=250&section=header&text=Hi,%20I'm%20Samir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-varma-1a1166281/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sv773@scarletmail.rutgers.edu)
@@ -33,12 +35,4 @@
 ## Web & Backend
 [![](https://skillicons.dev/icons?i=react,nodejs,flask,html,css)](https://skillicons.dev)
 
-## Cloud & Databases
-[![](https://skillicons.dev/icons?i=aws,docker,postgres,redis,mongodb)](https://skillicons.dev)
-
-## Tools
-[![](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-
----
-
-*Building at the intersection of reinforcement learning, data systems, and software engineering.*
+</div>
