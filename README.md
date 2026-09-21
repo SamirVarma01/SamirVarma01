@@ -11,7 +11,7 @@
 
 🎓 Computer Engineering & Mathematics student at **Rutgers University Honors College**
 
-💻 Interested in Machine Learning and Software Engineering**
+💻 Interested in **Machine Learning** and **Software Engineering**
 
 🔬 Completed **RL research at Rutgers** and interned at **Dropbox** as a software engineer working on Applied AI
 
