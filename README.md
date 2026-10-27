@@ -26,13 +26,16 @@
 # 🛠 Tech Stack
 
 ## Languages
-[![](https://skillicons.dev/icons?i=python,java,cpp,js,ts,bash)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,cpp,js,ts,bash,go)](https://skillicons.dev)
 
 ## AI / Machine Learning
 [![](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 [![](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas)](https://go-skill-icons.vercel.app)
 
 ## Web & Backend
-[![](https://skillicons.dev/icons?i=react,nodejs,flask,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,nodejs,tailwind,nextjs,flask,html,css,fastapi,mongodb,mysql,postgres)](https://skillicons.dev)
+
+## Tools
+[![](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,gitlab,redis)](https://skillicons.dev)
 
 </div>
