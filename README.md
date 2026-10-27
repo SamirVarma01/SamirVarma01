@@ -11,11 +11,11 @@
 
 🎓 Computer Engineering & Mathematics student at **Rutgers University Honors College**
 
-💻 Interested in **Machine Learning** and **Software Engineering**
+💻 Interested in **Backend Engineering** and **Applied AI**
 
 🔬 Completed **RL research at Rutgers** and interned at **Dropbox** as a software engineer working on Applied AI
 
-⚙️ Past experience in ETL pipelines/ML (AT&T) and computer vision (Cocogen.ai)
+⚙️ Past experience in ETL pipelines/ML (AT&T) and product engineering (Cocogen.ai)
 
 🌱 Always building — check out my pinned repos below
 
